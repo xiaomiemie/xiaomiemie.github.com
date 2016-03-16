@@ -13,7 +13,6 @@ div.container {
   height: 100%;
   padding: 20px;
   box-sizing: border-box;
-  background: #ccc;
   display: -webkit-flex;
   display: flex;
   flex-flow: row wrap;
