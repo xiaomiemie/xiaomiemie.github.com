@@ -1,0 +1,38 @@
+div{
+    padding: 20px;
+    border:1px solid #999;
+}
+.main{
+    background-color:#eee;
+    border:#999;
+    overflow: auto;
+}
+.leftNav,.content,.rightNav{
+    background-color:white;
+}
+
+.leftNav{
+    width: 160px;
+    float:left;
+}
+.leftNav > img{
+    float:left;
+    width: 80px;
+    height: 80px;
+}
+
+.content{
+    margin-left: 220px;
+    margin-right: 140px;
+}
+
+.rightNav{
+    width: 80px;
+    float:right;
+}
+
+.rightNav > img{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+}
